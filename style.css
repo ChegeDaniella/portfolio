@@ -1,0 +1,23 @@
+body {
+    background-image: linear-gradient(#eb3349 , #f45c43);
+    background-size: cover;
+}
+
+
+#test-box {
+    border: 2px solid black;
+    padding: auto;
+    text-align: center;
+    color: red;
+    background-color: black;
+    font-size: 35px;
+    margin-top: auto;
+}
+img {
+    float:right;
+}
+#text {
+    float: right;
+}    
+    
+    

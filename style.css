@@ -23,5 +23,21 @@ img {
 #heading {
     text-align: center;
 } 
+.info {
+
+}
+
+
+
+.why
+
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background-color: blue;
+    width: 400px;
+}
     
     

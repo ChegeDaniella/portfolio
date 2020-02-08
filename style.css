@@ -24,6 +24,7 @@ img {
     text-align: center;
 } 
 .info {
+    border: 
 
 }
 
@@ -35,9 +36,10 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 200px;
+    height: 250px;
     background-color: blue;
     width: 400px;
+    
 }
     
     

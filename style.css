@@ -15,10 +15,13 @@ body {
     margin-top: auto;
 }
 img {
-    float:right;
+    border-radius: 50%;
 }
 #text {
     float: right;
-}    
+}   
+#heading {
+    text-align: center;
+} 
     
     

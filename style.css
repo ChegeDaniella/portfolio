@@ -24,22 +24,32 @@ img {
     text-align: center;
 } 
 .info {
-    border: 
+    display: flex;
+    margin-left: auto;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 400px;
+    border: 2px solid;
+    background-image: url(images/life.jpg);
+    background-size: cover;
 
 }
-
-
-
 .why
-
 {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 250px;
-    background-color: blue;
+    background-image: url(images/move.gif);
+    background-size: cover;
     width: 400px;
-    
+    color: seashell;  
+}
+.hobb {
+    display: flex;
+    justify-content: center
+    ali;
 }
     
     

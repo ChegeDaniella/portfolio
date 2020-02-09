@@ -29,12 +29,15 @@ img {
     margin-left: auto;
     justify-content: center;
     align-items: center;
-    height: 400px;
+    height: 420px;
     width: 400px;
     border: 2px solid;
     background-image: url(images/life.jpg);
     background-size: cover;
 
+}
+.school{
+    color: green;
 }
 .why
 {

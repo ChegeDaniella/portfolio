@@ -4,9 +4,11 @@
 This is a porfolio about Daniella Wangechi Chege. It has afew of her skills and education status. It also details her reason for joining _The Moringa School_
 The languages used are HTML and CSS.
 You are welcomed to make any contribution to the code.
-##Setup Requirements 
-The only needed thing for setup is active internet connection
-####Link
+
+Setup Requirements 
+The only needed thing for setup is active internet connection.
+
+Link
 https://chegedaniella.github.io/portfolio/.
 
 MIT License

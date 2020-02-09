@@ -47,9 +47,9 @@ img {
     color: seashell;  
 }
 .hobb {
-    display: flex;
-    justify-content: center
-    ali;
+    border: 2px solid black;
+    background-image: url(images/sport.jpg);
+   
 }
     
     

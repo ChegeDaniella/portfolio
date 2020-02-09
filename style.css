@@ -19,6 +19,7 @@ img {
 }
 #text {
     float: right;
+    font-size: 35px;
 }   
 #heading {
     text-align: center;
